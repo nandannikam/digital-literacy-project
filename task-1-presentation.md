@@ -6,11 +6,9 @@
 
 For this task, I have used Canva to create a simple, one-page infographic to help my classmates understand digital literacy. My design focuses on three main areas:
 
-What Digital Literacy is: Understanding how to use online resources the right way.
-
-Useful Digital Tools: Highlighting apps for note-taking, research, and staying organized.
-
-Safe Internet Practices: Tips for protecting privacy and avoiding online threats.
+- What Digital Literacy is: Understanding how to use online resources the right way.
+- Useful Digital Tools: Highlighting apps for note-taking, research, and staying organized.
+- Safe Internet Practices: Tips for protecting privacy and avoiding online threats.
 
 I have used bright colors and clear icons, like a shield for safety and a lightbulb for ideas, to make the information easy to read at a glance.
 
