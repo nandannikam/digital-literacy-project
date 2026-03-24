@@ -1,6 +1,6 @@
 ## Digital Literacy Infographic
 
-<img src="images/Slide.png" width="450" alt="Slide">
+<img src="task-1-presentation/Slide.png" width="450" alt="Slide">
 
 ## Brief Descrription
 
