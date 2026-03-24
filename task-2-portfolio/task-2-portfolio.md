@@ -1,13 +1,13 @@
 ## GitHub Profile
-<img src="images/GitHubProfile.png" width="450" alt="GitHub Profile">
+<img src="GitHubProfile.png" width="450" alt="GitHub Profile">
 
 ## LinkedIn Profile
-<img src="images/LinkedIn-Profile2.png" width="450" alt="LinkedIn Profile">
-<img src="images/LinkedIn-Profile1.png" width="450" alt="LinkedIn Profile">
+<img src="LinkedIn-Profile2.png" width="450" alt="LinkedIn Profile">
+<img src="LinkedIn-Profile1.png" width="450" alt="LinkedIn Profile">
 
 
 ## ResearchGate Profile
-<img src="images/ResearchGateProfile.png" width="450" alt="ResearchGate Profile">
+<img src="ResearchGateProfile.png" width="450" alt="ResearchGate Profile">
 
 
 ## Reflection Notes
