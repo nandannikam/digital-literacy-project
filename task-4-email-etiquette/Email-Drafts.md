@@ -3,8 +3,8 @@
 #### Email - 01
 
 From:  student@vitbhopal.ac.in  
-To:  professor@vitbhopal.ac.in
-Subject:  Extension Request for submission of Project Exhibition
+To:  professor@vitbhopal.ac.in  
+Subject:  Extension Request for submission of Project Exhibition  
 Date:  1st April 2026
 
 Respected Professor,
@@ -27,9 +27,9 @@ Nandan Nikam
 
 #### Email - 02
 
-From:  student@vitbhopal.ac.in
-To:  coordinator@company.ac.in
-Subject: Application - Summer Marketing Internship 2026
+From:  student@vitbhopal.ac.in  
+To:  coordinator@company.ac.in  
+Subject: Application - Summer Marketing Internship 2026  
 Date:  1st April 2026
 
 Respected Sir/Madam,
