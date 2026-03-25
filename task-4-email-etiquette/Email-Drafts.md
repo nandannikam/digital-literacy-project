@@ -1,6 +1,6 @@
 ## Part - A : Two Professional Emails
 
-#### Email - 01
+### Email - 01
 
 From:  student@vitbhopal.ac.in  
 To:  professor@vitbhopal.ac.in  
@@ -25,7 +25,7 @@ Nandan Nikam
 945xxxxx86
 
 
-#### Email - 02
+### Email - 02
 
 From:  student@vitbhopal.ac.in  
 To:  coordinator@company.ac.in  
