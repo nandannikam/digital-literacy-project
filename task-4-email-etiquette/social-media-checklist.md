@@ -1,3 +1,3 @@
 ## Social Media Checklist
 
-<img src="SocialMediaChecklist.png" width="450" alt="Slide">
+<img src="SocialMediaChecklist.png" width="650" alt="Slide">
