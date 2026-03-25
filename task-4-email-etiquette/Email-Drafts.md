@@ -19,9 +19,9 @@ I completely understand that requesting an extension places additional burden on
 
 Thanking you in anitcipation !
 
-Yours faithfully,
-Nandan Nikam
-25MIM10102 - Int. Mtech. AI
+Yours faithfully,  
+Nandan Nikam  
+25MIM10102 - Int. Mtech. AI  
 945xxxxx86
 
 
@@ -41,3 +41,6 @@ I have maintained a strong GPA 9.6 and I have gained experience by working on co
 I am motivated, a quick learner, and looking forward to applying my marketing skills in real word. I have included my CV for your review, and I would very much appreciate the opportunity to talk with you about my potential contribution to your team.
 
 Thank you for your consideration! I hope to hear from you soon.
+
+Yours faithfully,  
+Nandan Nikam  
