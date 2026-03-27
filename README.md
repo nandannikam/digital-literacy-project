@@ -3,7 +3,7 @@
 Name - Nandan Vijay Nikam  
 Reg No. - 25MIM10102  
 Course - Digital Literacy   
-Course Code - CSE0001
+Course Code - CSE0001  
 Slot - D11  
 Branch - Integrated M.Tech AI  
 Semester - Winter Semester 25-26
