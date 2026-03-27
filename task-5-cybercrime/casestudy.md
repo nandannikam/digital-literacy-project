@@ -33,19 +33,19 @@ Small shop owners and freelancers who expect payments from new clients.
 
 ### Consequences  
 
-**Financial Consequences**  
+**1. Financial Consequences**  
 
 The first effect is the loss of money. Most of the money lost in the UPI fraud scam is lost instantly, making it very difficult to retrieve the money. Losing money to fraud can be a very big deal for a college student, especially if the amount lost is ₹500 or ₹2,000. This can be money saved for school fees or daily expenses.  
 
-**Emotional Consequences**  
+**2. Emotional Consequences**  
 
 It feels very bad to lose money to fraud. Most fraud victims feel very ashamed of themselves, asking themselves, "How could I be so stupid?" This feeling of shame keeps them from telling their parents or anyone else about the fraud. Most students also develop emotional stress, making them feel like they can't trust anyone online.  
 
-**Academic Consequences**  
+**3. Academic Consequences**  
 
 The emotional stress caused by losing money to fraud doesn't stop at emotional stress. Most students affected by fraud have trouble concentrating in school. This is especially true if the money lost was to be used for school exams or buying school materials.  
 
-**Social Consequences**  
+**4. Social Consequences**  
 
 The victim also feels very ashamed, especially if they are afraid to tell anyone, including parents or friends, about the fraud. Most students also develop emotional stress, making them feel very low.
 
