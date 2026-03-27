@@ -1,5 +1,5 @@
 ## HackerRank Profile
-<img src="images/HackerRank.png" width="450" alt="HackerRank Profile">
+<img src="HackerRank.png" width="450" alt="HackerRank Profile">
 
 
 
@@ -11,12 +11,12 @@ Google Sheet Link - https://docs.google.com/spreadsheets/d/1NwjFv0v3IhJD-OuYEa1R
 
 #### Google Form Screenshots
 
-<img src="images/GoogleForm1.png" width="450" alt="Google Form">
-<img src="images/GoogleForm2.png" width="450" alt="Google Form">
-<img src="images/GoogleForm3.png" width="450" alt="Google Form">
+<img src="GoogleForm1.png" width="450" alt="Google Form">
+<img src="GoogleForm2.png" width="450" alt="Google Form">
+<img src="GoogleForm3.png" width="450" alt="Google Form">
 
 #### Google Sheet Screenshots
-<img src="images/GoogleSheets.png" width="450" alt="Google Sheets">
+<img src="GoogleSheets.png" width="450" alt="Google Sheets">
 
 ## Notes
 
