@@ -1,4 +1,4 @@
-## Checklist for College Students  
+## Part B - Checklist for College Students  
 
 A quick review could save you from losing your hard-earned money or your personal data.  
 
